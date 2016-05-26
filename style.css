@@ -29,7 +29,7 @@ div{
 }
 ul{
   list-style-type: circle;
-  text-align: center;
+  align-content: flex-start;
   display: inline-block;
 }
 li{
